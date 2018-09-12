@@ -1,0 +1,7 @@
+<project name="hardwork" default="WAR-build" basedir=".">
+	<description>hardwork - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
